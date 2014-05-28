@@ -2,7 +2,7 @@
 
 - Twitter: @wolfmasa.md
 - blog: http://chezou.wordpress.com
-- よくいるコミュニティ: kawasaki.rb, yokohama.rb
+- よくいるコミュニティ: kawasaki.rb
 
 # Rubyとわたし
 - 前職の先輩に進められて自然言語処理をやるならRubyと言われて始めた
