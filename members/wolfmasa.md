@@ -1,19 +1,19 @@
 # 自己紹介
 
-- Twitter: @wolfmasa.md
-- blog: http://chezou.wordpress.com
-- よくいるコミュニティ: kawasaki.rb
+- Twitter: @wolfmasa
+- よくいるコミュニティ: kawasaki.rb（ただし初回）
 
 # Rubyとわたし
-- 前職の先輩に進められて自然言語処理をやるならRubyと言われて始めた
-- C++とSinatraばかり触っていた
+- ちょっとしたScriptで書いてみたり。。。
 
 # さわったことがある言語
-- Ruby, JavaScript(CoffeeScript), C, C++, Java(ほんのり)
+- Ruby, C, C++, Objective-C, 
 
 # 興味がある
-- 自然言語処理、機械学習、データ分析
-  - 以前はHadoop, Solr周りのクラスター作ったりしていました
+- コンピュータビジョン（画像処理）
+  - 勉強中
+- モバイルアプリ（特にiOSとかとか）
+- クラウド、ネットワーク（AWSとか）
 
 # 趣味
-- アイリッシュパブでライブセッションを聞きながら🍺を飲む
+- 川崎フロンターレの応援
