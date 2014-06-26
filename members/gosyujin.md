@@ -1,3 +1,10 @@
+---
+layout: page
+title: "gosyujin"
+description: ""
+---
+{% include JB/setup %}
+
 # 自己紹介
 
 ![icon](https://avatars0.githubusercontent.com/u/588166?s=120)
