@@ -1,4 +1,13 @@
+---
+layout: page
+title: "chezou"
+description: ""
+---
+{% include JB/setup %}
+
 # 自己紹介
+
+![icon](https://avatars2.githubusercontent.com/u/916653?s=460)
 
 - Twitter: @chezou
 - blog: http://chezou.wordpress.com
