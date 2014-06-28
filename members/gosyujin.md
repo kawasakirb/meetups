@@ -2,6 +2,7 @@
 layout: page
 title: "gosyujin"
 description: ""
+category: "member"
 ---
 {% include JB/setup %}
 
