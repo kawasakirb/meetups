@@ -2,6 +2,7 @@
 layout: page
 title: "chezou"
 description: ""
+category: "member"
 ---
 {% include JB/setup %}
 
