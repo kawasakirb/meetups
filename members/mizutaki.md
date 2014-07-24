@@ -7,7 +7,7 @@ category: "member"
 {% include JB/setup %}
 
 # 自己紹介
-![icon]()
+![icon](https://avatars2.githubusercontent.com/u/3183488?s=460)
 
 - Twitter: @mizutaki_S
 - blog: なし
