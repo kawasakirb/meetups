@@ -16,7 +16,7 @@ category: "member"
 * Facebook: [Koichiro Sumi](https://www.facebook.com/sumyapp)
 * Github: [sumyapp](https://github.com/sumyapp)
 
-# 会社名義のブログとか
+## 会社名義のブログとか
 
 * Service: [SideCI](https://www.sideci.com/) - Grow Your Continous Integration with Open Source Software, Continous delivery platform
 * Blog: [SideCI Blog - CIツール「SideCI」の継続的インテグレーションブログ](http://sideci.hatenablog.com/)
@@ -35,6 +35,7 @@ category: "member"
 Rails LoveですしCakePHPやCodeigniterも使ったことありますし、ブログはPHPですし、というわけで、基本好き嫌いは無いです。  
 書いている行数で言うと、下記のような言語使用歴になると思います。  
 Ruby > Objective-C > Java > PHP > etc(python, node.js)
+
 基本、プロダクトのコードを主に書くので、パブリックレポジトリではあまりソースコードは公開していないです。今後、公開出来るものはしていきたいなーと思いつつ、OSSに貢献もしたいなと思いつつ、まだまだな状態です。今後頑張ります＼(^o^)／
 
 Rails関係無いですが、サーバはHeroku Loveです。AWSもばんばんです。GAEは最近あまり使ってないです。  
