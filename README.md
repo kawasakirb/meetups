@@ -20,6 +20,7 @@ layout: page
 title: "自分のGitHubアカウント名"
 description: ""
 category: "member"
+icon: http://somewhere.com/my_icon.jpg
 ---
 {% include JB/setup %}
 ```
