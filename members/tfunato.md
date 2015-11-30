@@ -3,12 +3,11 @@ layout: page
 title: "tfunato"
 description: ""
 category: "member"
+icon: https://avatars3.githubusercontent.com/u/69743?s=460
 ---
 {% include JB/setup %}
 
 # 自己紹介
-
-![icon](https://avatars3.githubusercontent.com/u/69743?s=460)
 
 - Twitter: @tfunato
 - blog: http://www.canetrash.jp/

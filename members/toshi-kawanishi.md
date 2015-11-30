@@ -3,12 +3,11 @@ layout: page
 title: "toshi-kawanishi"
 description: ""
 category: "member"
+icon: http://www.gravatar.com/avatar/976d7ac644256c0fb198423b0c00ea52.png
 ---
 {% include JB/setup %}
 
 # 自己紹介
-
-![gravator](http://www.gravatar.com/avatar/976d7ac644256c0fb198423b0c00ea52.png)
 
 * かわにし
 * http://toshiyukikawanishi.net

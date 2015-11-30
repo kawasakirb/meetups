@@ -3,12 +3,11 @@ layout: page
 title: "etmnk"
 description: ""
 category: "member"
+icon: "https://avatars3.githubusercontent.com/u/6524484?v=2&s=460"
 ---
 {% include JB/setup %}
 
 # 自己紹介
-
-![icon](https://avatars3.githubusercontent.com/u/6524484?v=2&s=460)
 
 - Twitter: @etmnk
 - blog: http://etmnk.github.io

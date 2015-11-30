@@ -3,11 +3,11 @@ layout: page
 title: "mizutaki"
 description: ""
 category: "member"
+icon: https://avatars2.githubusercontent.com/u/3183488?s=460
 ---
 {% include JB/setup %}
 
 # 自己紹介
-![icon](https://avatars2.githubusercontent.com/u/3183488?s=460)
 
 - Twitter: @mizutaki_S
 - blog: なし
@@ -23,7 +23,7 @@ category: "member"
 
 # 興味がある
 - Rubyを使えるようになったらSinatraを使ってみたいです
-- 
+-
 
 # 趣味
 - フットサル

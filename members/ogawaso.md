@@ -3,12 +3,12 @@ layout: page
 title: "ogawaso"
 description: ""
 category: "member"
+icon: https://avatars1.githubusercontent.com/u/39783?&s=460
 ---
 {% include JB/setup %}
 
 # 自己紹介
 
-![icon](https://avatars1.githubusercontent.com/u/39783?&s=460)
 - Twitter: @ogawaso
 - よくいるコミュニティ: yokohama.rb kawasaki.rb sendagaya.rb
 

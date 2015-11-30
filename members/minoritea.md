@@ -3,13 +3,12 @@ layout: page
 title: "minoritea"
 description: ""
 category: "member"
+icon: https://avatars1.githubusercontent.com/u/3453386?s=460
 ---
 {% include JB/setup %}
 
 # 自己紹介
 Minori Tokuda
-
-![icon](https://avatars1.githubusercontent.com/u/3453386?s=460)
 
 - Twitter: @snowcrush
 - blog: http://tanstaafl.0pt.jp

@@ -3,12 +3,11 @@ layout: page
 title: "gosyujin"
 description: ""
 category: "member"
+icon: "https://avatars0.githubusercontent.com/u/588166?s=120"
 ---
 {% include JB/setup %}
 
 # 自己紹介
-
-![icon](https://avatars0.githubusercontent.com/u/588166?s=120)
 
 - Twitter: @kk_Ataka
 - blog: http://d.hatena.ne.jp/kk_Ataka/

@@ -3,12 +3,11 @@ layout: page
 title: "kechako"
 description: ""
 category: "member"
+icon: https://avatars3.githubusercontent.com/u/1865660?v=3&s=460
 ---
 {% include JB/setup %}
 
 # 自己紹介
-
-![icon](https://avatars3.githubusercontent.com/u/1865660?v=3&s=460)
 
 - Twitter: @kechako
 - blog: http://blog.kechako.com

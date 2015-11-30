@@ -2,12 +2,11 @@
 layout: page
 title: "xmisao"
 description: ""
+icon: http://www.xmisao.com/xmisao_icon_96x96.png
 ---
 {% include JB/setup %}
 
 # 自己紹介
-
-![icon](http://www.xmisao.com/xmisao_icon_96x96.png)
 
 - xmisao(ぺけみさお)
 - プログラマ(Java屋さん)

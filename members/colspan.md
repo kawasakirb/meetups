@@ -3,18 +3,17 @@ layout: page
 title: "colspan"
 description: ""
 category: "member"
+icon: "https://avatars3.githubusercontent.com/u/29963?s=120"
 ---
 {% include JB/setup %}
 
 # 自己紹介
 
-![icon](https://avatars3.githubusercontent.com/u/29963?s=120)
-
 - Twitter: @colspan
 - blog: http://colspan.hatenablog.jp/
 
 # Rubyとわたし
-- 大学時代にRailsと出会ったことがきっかけ 
+- 大学時代にRailsと出会ったことがきっかけ
 - 社内システムのスクレイピングに使用
 - Ansibleでインフラコードを実装したり
 - 趣味でサーバのバックエンド、データ分析コードを実装したり
