@@ -27,4 +27,4 @@ icon: https://pbs.twimg.com/profile_images/3432656052/2f4bde54700da674c243b1ac88
 - 機械学習
 
 # 趣味
-- 子育と遊ぶ
+- 子供と遊ぶ
